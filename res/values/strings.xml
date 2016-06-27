@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">音乐播放器</string>
+    <string name="music_time">00:00/00:00</string>
+    <string name="musicName">歌曲名</string>
+    <string name="author">演唱者</string>
+    <string name="musicTime">01:20/05:01</string>
+    <string name="message">请先给手机中下载一些歌曲</string>
+</resources>
